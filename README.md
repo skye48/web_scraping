@@ -1,5 +1,5 @@
 # web_scraping
-In this project, I write a short code in Javascript to collect information from a website. This code is used in Google Apps Script integrated into Google Sheets.  
+In this project, I write a short code in JavaScript to collect information from a website. This code is used in Google Apps Script integrated into Google Sheets.  
 
 Input is UEN (Unique Entity Number) which is a distinct identification number assigned to business entities registered in Singapore.  
 
